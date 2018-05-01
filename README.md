@@ -1,5 +1,5 @@
 # goose3-dashboard
-Dashboard code for Goose 3 Waterloop Pod
+Dashboard backend code for Goose 3 Waterloop Pod
 
 Qt-client contains the test project for the client side code for QT to communicate with the relay_server using JSON over UDP
 and to send commands to the relay_server over TCP.
